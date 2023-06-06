@@ -3,7 +3,7 @@ Scheletro di progetto per web application
 
 Per sviluppare con Eclipse
 * File/Import/Git/Projects from Git (nell'ultimo passo selezionare "Import as general project").
-* Project/Properties: aggiungere "Java", "Maven Nature" e "Web Properties"
+* Project/Properties: aggiungere "Java", "Maven Nature" e "Web Properties" in "Project Natures"
 * Project/Update Maven Project
 
 Workflow con Maven
