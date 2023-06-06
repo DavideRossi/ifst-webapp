@@ -1,0 +1,61 @@
+{
+	"automobili": [
+		{
+			"targa": "GG123XP",
+			"matricola": "123321123A",
+			"marca": "Fiat",
+			"modello": "Panda",
+			"cilindrata": 1200,
+			"anno": 2022,
+			"serbatoio": 42,
+			"posti": 4
+		},
+		{
+			"targa": "TT456XX",
+			"matricola": "43284834K",
+			"marca": "Fiat",
+			"modello": "Punto",
+			"cilindrata": 1400,
+			"anno": 2020,
+			"posti": 5
+		},
+		{
+			"targa": "AA999QQ",
+			"matricola": "123128319N",
+			"marca": "Fiat",
+			"modello": "Multipla",
+			"cilindrata": 1600,
+			"anno": 2000,
+			"posti": 6
+		}
+	],
+	"furgoni": [
+		{
+			"targa": "FF123FF",
+			"matricola": "1231453536W",
+			"marca": "Fiat",
+			"modello": "doublo",
+			"cilindrata": 1600,
+			"anno": 2022,
+			"carico": 3.5
+		},
+		{
+			"targa": "SS456SS",
+			"matricola": "1264352323Z",
+			"marca": "Fiat",
+			"modello": "fiorino",
+			"cilindrata": 1800,
+			"anno": 2022,
+			"carico": 6
+		},
+		{
+			"targa": "ZZ919ZA",
+			"matricola": "12436342T",
+			"marca": "Fiat",
+			"modello": "furgo",
+			"cilindrata": 1800,
+			"anno": 2022,
+			"carico": 12
+		}
+	]
+}
