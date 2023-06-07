@@ -7,7 +7,7 @@
 			"modello": "Panda",
 			"cilindrata": 1200,
 			"anno": 2022,
-			"serbatoio": 42,
+			"serbatoio": 34,
 			"posti": 4
 		},
 		{
@@ -17,6 +17,7 @@
 			"modello": "Punto",
 			"cilindrata": 1400,
 			"anno": 2020,
+			"serbatoio": 40,
 			"posti": 5
 		},
 		{
@@ -26,6 +27,7 @@
 			"modello": "Multipla",
 			"cilindrata": 1600,
 			"anno": 2000,
+			"serbatoio": 42,
 			"posti": 6
 		}
 	],
